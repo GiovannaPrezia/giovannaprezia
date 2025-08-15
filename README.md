@@ -40,7 +40,7 @@ Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[L
     title="R"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" 
 />
 <img 
     align="left" 
