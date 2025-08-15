@@ -3,23 +3,9 @@
 **`Biomédica Bioinformata`**
 
 Me chamo Giovanna Prezia, tenho 28 anos e sou natural do Rio Grande do Sul. Sou Biomédica formada, Mestre em Biotecnologia, Pós Graduada em Bioinformática e atualmente Bolsista de Pesquisa em Bioinformática no renomado Instituto de Pesquisa Carlos Chagas, no Paraná.
-Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "Linkedin](https://www.youtube.com/@larissakich)", onde compartilho meus constantes estudos na área tecnológica e das análises dentro do mundo da biologia molecular. Também compartilho algumas ideias no meu "[Médium](https://www.instagram.com/dev_em_dev/)", dentre curiosidades no mundo de uma academica com grandes sonhos de entrar pra área de dados.
+Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[Linkedin](https://www.linkedin.com/in/giovannaprezia/)", onde compartilho meus constantes estudos na área tecnológica e das análises dentro do mundo da biologia molecular. Também compartilho algumas ideias no meu "[Médium](https://medium.com/@giovanna.nbprezia)", dentre curiosidades no mundo de uma academica com grandes sonhos de entrar pra área de dados.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+<p align="left"> 
     <a href="https://github.com/giovannaprezia?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -164,14 +150,14 @@ Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "Li
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=giovannaprezia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaprezia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
