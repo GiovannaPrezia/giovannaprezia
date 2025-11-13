@@ -4,6 +4,8 @@
 
 Me chamo Giovanna Prezia, tenho 28 anos e sou de Curitiba, Paraná - Brasil. Sou Biomédica formada, Mestre em Biotecnologia, Pós Graduada em Bioinformática e atualmente Bolsista de Pesquisa em Bioinformática no renomado Instituto de Pesquisa Carlos Chagas, no Paraná.
 Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[Linkedin](https://www.linkedin.com/in/giovannaprezia/)", onde compartilho meus constantes estudos na área tecnológica e das análises dentro do mundo da biologia molecular. Também compartilho algumas ideias no meu "[Médium](https://medium.com/@giovanna.nbprezia)", dentre curiosidades no mundo de uma academica com grandes sonhos de entrar pra área de dados.
+Meu portfólio: https://giovannaprezia.github.io/
+
 
 <p align="left"> 
     <a href="https://github.com/giovannaprezia?tab=repositories&sort=stargazers">
