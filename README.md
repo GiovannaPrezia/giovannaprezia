@@ -1,32 +1,36 @@
-👩🏻‍💻Hello World!
+👩🏻‍💻 Hello World!
 
-**`Biomédica Bioinformata`**
+**`Biomedical Scientist & Bioinformatician`**
 
-Me chamo Giovanna Prezia, tenho 28 anos e sou de Curitiba, Paraná - Brasil. Sou Biomédica formada, Mestre em Biotecnologia, Pós Graduada em Bioinformática e atualmente Bolsista de Pesquisa em Bioinformática no renomado Instituto de Pesquisa Carlos Chagas, no Paraná.
-Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu "[Linkedin](https://www.linkedin.com/in/giovannaprezia/)", onde compartilho meus constantes estudos na área tecnológica e das análises dentro do mundo da biologia molecular. Também compartilho algumas ideias no meu "[Médium](https://medium.com/@giovanna.nbprezia)", dentre curiosidades no mundo de uma academica com grandes sonhos de entrar pra área de dados.
-Meu portfólio: https://giovannaprezia.github.io/
+My name is Giovanna Prezia, I’m 28 years old and I’m from Curitiba, Paraná – Brazil.  
+I hold a Biomedical Sciences degree, a Master’s in Biotechnology, a Postgraduate degree in Bioinformatics, and I’m currently a Research Fellow in Bioinformatics at the Carlos Chagas Institute (Fiocruz), in Paraná.
+
+I’m passionate about technology and scientific data, and I share part of this journey on my **[LinkedIn](https://www.linkedin.com/in/giovannaprezia/)**, where I post about bioinformatics, coding and molecular biology data analysis.  
+I also write on **[Medium](https://medium.com/@giovanna.nbprezia)**, sharing reflections and ideas from the perspective of an academic building a career in data and bioinformatics.  
+
+My portfolio: **https://giovannaprezia.github.io/**
 
 
 <p align="left"> 
     <a href="https://github.com/giovannaprezia?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/giovannaprezia?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total GitHub stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/giovannaprezia?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=STARS"
         />
     </a>
     <a href="https://github.com/giovannaprezia?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/giovannaprezia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/giovannaprezia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=FOLLOWERS&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -72,7 +76,7 @@ Meu portfólio: https://giovannaprezia.github.io/
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -80,14 +84,13 @@ Meu portfólio: https://giovannaprezia.github.io/
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=giovannaprezia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=giovannaprezia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaprezia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaprezia&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
